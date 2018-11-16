@@ -20,8 +20,10 @@ _The Administration of DH_
 * Rita Raley, "Digital Humanities for the Next Five Minutes," _differences_ 25.1 (2014) (B)
 * Julia Flanders, [“Time, Labor, and ‘Alternative Careers’ in Digital Humanities Knowledge Work,”](http://dhdebates.gc.cuny.edu/debates/text/26) from _Debates in the Digital Humanities 2012_ (2012)
 
+
 ## Week 2:  NO CLASS -- MLK JR DAY
 ## Monday, January 21
+
 
 ## Week 3: Data analysis in the humanities now
 ## Monday, January 28
@@ -107,8 +109,10 @@ _The Administration of DH_
 ### Due
 * Data set analysis
 
+
 ## Week 9: NO CLASS -- SPRING BREAK
 ## March 9 -17
+
 
 ## Week 10: Methods 1: Modeling data
 ## Monday, March 18
@@ -172,8 +176,7 @@ OR
 ## Week 14: Final paper work
 ## Monday, April 15
 ### Due
-* Final paper annotated bibliography
-
+* Final paper annotated bibliography<br/>
 * Catch-up, review, discussion of concepts important to final papers
 * Work on final paper
 
