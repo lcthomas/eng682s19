@@ -3,30 +3,30 @@ layout: page
 title: Requirements
 navigation: 2
 ---
-
-# Course Digital Infrastructure
+# Requirements
+## Course Digital Infrastructure
 We will make use of two different online systems in this course: this course site, and a class Box folder.
 
 We will use our course site to manage course information and our schedule. You will find an online version of our course calendar here (including the most up-to-date version of reading assignments and due dates), as well as information about all course assignments. We will also use a shared class Box folder (miami.box.com) to distribute course readings and other materials. Every UM student, staff, and faculty member has free access to Box, but you will need to create a Box account to access the shared folder if you don't have one already. You will receive a link to this shared folder via email.
 
-# Assignments
+## Assignments
 You must complete all assignments to pass the class.
 
-## Readings
+### Readings
 All of our course readings are available online or through our shared Box folder. However, we will be reading three chapters from Andrew Piper's recent book, _Enumerations: Data and Literary Study_ (University of Chicago Press, 2018). While these chapters are included among the materials available via our Box folder, if you would like to read this book in its hard copy form, you may wish to purchase it.
 
-## Attendance and Active Participation
+### Attendance and Active Participation
 As with any graduate course, you are required to do the reading for, attend, and actively participate in every class period, barring emergencies or illness. If you know you will miss a particular class period, please let me know in advance.
 
-## Case Study Presentation and Guide: 10%
+### Case Study Presentation and Guide: 10%
 Each week after week 1 features a "case study" reading, as marked in the syllabus. Early on in the course, you will select one case study on which to present (except for those weeks marked "INSTRUCTOR," in which I will handle the case study presentation). Depending on the number of students in the course, we may need to double up some weeks, in which case you may complete this assignment with a partner (you will each submit your own guide, but you will do the presentation together).
 
 To prepare for your presentation, you will fill out a "Case Study Guide" for that project/article. You can find this guide, which includes more instructions for completing it, in our shared Box folder. After completing the guide, you will upload it to our Box folder with the following filename structure: WeekNumber-YourName-CaseStudyFirstAuthorName. You will also add the tools and/or methods the author(s) of your case study used, and short descriptions of each, to our running "Tools and Methods" list, which you can also find in our shared Box folder. Your guide and your contributions to the tools and method list are both due by class on the day for which you have signed up to present a case study.
 
 Your case study presentation will simply be a presentation of your guide to the class. You should use the guide to structure your presentation, answering each question in your presentation and providing more detail as necessary. If presenting alone, your presentation should be about 8-10 minutes long (10 minutes is a hard limit). If presenting with a partner, it should be about 15-20 min (20 min is a hard limit). Your case study presentation will be graded on completion.
 
-## Tutorials: 15%
-### Tutorial Due Dates:
+### Tutorials: 15%
+**Tutorial Due Dates:**
 * Tutorial 1: Monday, Feb 18
 * Tutorial 2: Monday, Feb 25
 * Tutorial 3: Monday, March 4
@@ -37,8 +37,8 @@ As is emphasized in the course description, these tutorials are not designed to 
 
 You will complete these tutorials as [R Markdown notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html), and you will submit them to our shared Box drive by class each day they are due. We will discuss all of the tutorials in class on Monday, March 4. Your tutorials will be graded on completion.
 
-## Data Set Analysis: 30%
-### Due:
+### Data Set Analysis: 30%
+**Due:**
 * You should choose your data set by Monday, Feb 11. Email me with your choice by class, including a citation of the article/project/repository it comes from (option 1 below), or a description of the hypothetical data set you are creating (option 2).
 * Analysis paper due Friday, March 8. Email me your paper and your data set, or portions of it (or links to it), by class.
 
@@ -52,8 +52,8 @@ You can go about selecting your data set in one of two ways:
 
 No matter the option you choose, you should be able to access or collect at least some portion of your chosen data set yourself so that you can get a sense of what the data looks like.
 
-## Final Paper: 45%
-### Due:
+### Final Paper: 45%
+**Due:**
 * Abstract: Monday, April 1. Email to me by class.
 * Annotated bibliography: Monday, April 15. Email to me by class.
 * Final paper: Friday, May 3. Email to me.
