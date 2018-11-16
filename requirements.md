@@ -16,7 +16,7 @@ You must complete all assignments to pass the class.
 All of our course readings are available online or through our shared Box folder. However, we will be reading three chapters from Andrew Piper's recent book, _Enumerations: Data and Literary Study_ (University of Chicago Press, 2018). While these chapters are included among the materials available via our Box folder, if you would like to read this book in its hard copy form, you may wish to purchase it.
 
 ### Attendance and Active Participation
-As with any graduate course, you are required to do the reading for, attend, and actively participate in every class period, barring emergencies or illness. If you know you will miss a particular class period, please let me know in advance.
+As with any graduate course, you are expected to do the reading for, attend, and actively participate in every class period, barring emergencies or illness. If you know you will miss a particular class period, please let me know in advance.
 
 ### Case Study Presentation and Guide: 10%
 Each week after week 1 features a "case study" reading, as marked in the syllabus. Early on in the course, you will select one case study on which to present (except for those weeks marked "INSTRUCTOR," in which I will handle the case study presentation). Depending on the number of students in the course, we may need to double up some weeks, in which case you may complete this assignment with a partner (you will each submit your own guide, but you will do the presentation together).
