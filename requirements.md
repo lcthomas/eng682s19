@@ -58,17 +58,17 @@ No matter the option you choose, you should be able to access or collect at leas
 * Annotated bibliography: Monday, April 15. Email to me by class.
 * Final paper: Friday, May 3. Email to me.
 
-_Final Paper_
+_Final Paper_<br/>
 Your final paper in this class is not a work of actual computational criticism; rather, it is a work of speculative computational criticism. We will talk more about this in class, but in general, your tasks in the final paper are to: 1) Pose a research question or questions amenable to computation, making sure to describe how and why it is amenable to computation; 2) Describe how this question relates to existing concerns in the field(s) in which you are posing it, and/or has the potential to fill existing gaps in this field(s); and 3) Describe in some detail the data and methods you think you would need to collect and employ in order to answer this question, and why. You might think of the final paper, then, as something like a prospectus or a proposal for a work of computational criticism. I encourage you to use the data set you selected for your data set analysis paper in your final paper, but you don't have to.
 
 Your final paper should demonstrate not only some familiarity with methods in humanities data analysis, but also knowledge of the field or fields within which you see your project as situated. It should be ~2500-3000 words long, and it should include a works cited page/bibliography.
 
-_Annotated Bibliography_
+_Annotated Bibliography_<br/>
 This is a formal bibliography of about 8-10 sources (articles, book chapters, projects) you see as potentially important to your final paper. You should include citation information for each source, as well as a 1-paragraph summary of each source and its relevance to your project. The bibliography should be done in MLA format. You may include up to 3 sources from our syllabus (the required readings); other sources should be drawn from your own research or from the additional readings list for this course.
 
 Your bibliography should be divided into 2 categories: 1) Sources related to the topic of your final paper; 2) Sources related to the methods of your final paper. You should include an approximately equal number of sources in each category.
 
 For samples, see [https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html).
 
-_Abstract_
+_Abstract_<br/>
 The abstract lays out the general gist of your ideas for your final paper. It should be no longer than 1-2 paragraphs. The more specific you can be at this stage, the better. While a good deal of thought should go into the abstract, it does not necessarily commit you to anything, and the project may change as needed as you work on it.
