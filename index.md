@@ -8,8 +8,8 @@ navigation: 1
 Mondays, 6:25 pm - 8:55 pm
 Merrick 205
 
-Lindsay Thomas, [lindsaythomas@miami.edu](lindsaythomas@miami.edu)
-Office hours: M 4-5:30 pm and by appointment
+Lindsay Thomas, [lindsaythomas@miami.edu](lindsaythomas@miami.edu)<br/>
+Office hours: M 4-5:30 pm and by appointment<br/>
 Ashe 307   
 
 This class will provide an introduction to the theory and practice of data analysis from a literary and cultural studies perspective. It will introduce central concepts in the field and some of its methods. We will focus throughout not only on how digital technologies and methods are changing research in literary and cultural studies, but also on what the value of such changes is (or isn’t). Major topics for discussion will include but are not limited to: the place of humanistic text analysis within what is more widely known as the digital humanities; what constitutes “data” in the humanities and how to go about collecting and analyzing it; the logic and practice of quantification; methods of text analysis themselves; and how to begin to design a computational research project. We will explore many different examples of computational research in the humanities over the course of the semester, but the main questions we will ask of every piece or project are, "_How_ did they do that?" and, more importantly, "_Why_ did they do that?"
