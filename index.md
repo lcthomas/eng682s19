@@ -5,7 +5,7 @@ navigation: 1
 ---
 # Concepts in Humanities Data Analysis
 ## ENG 682 | Spring 2019 | University of Miami
-Mondays, 6:25 pm - 8:55 pm
+Mondays, 6:25 pm - 8:55 pm<br/>   
 Merrick 205
 
 Lindsay Thomas, [lindsaythomas@miami.edu](lindsaythomas@miami.edu)<br/>
