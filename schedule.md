@@ -19,9 +19,11 @@ _DH in Practice_
 _The Administration of DH_
 * Rita Raley, "Digital Humanities for the Next Five Minutes," _differences_ 25.1 (2014) (B)
 * Julia Flanders, [“Time, Labor, and ‘Alternative Careers’ in Digital Humanities Knowledge Work,”](http://dhdebates.gc.cuny.edu/debates/text/26) from _Debates in the Digital Humanities 2012_ (2012)
+----
 
 ## Week 2:  NO CLASS -- MLK JR DAY
 ## Monday, January 21
+----
 
 ## Week 3: Data analysis in the humanities now
 ## Monday, January 28
@@ -40,6 +42,7 @@ _The Administration of DH_
 
 ### Case study
 * INSTRUCTOR: Mikki Kaufman, ["'Everything on Paper Will Be Used Against Me': Quantifying Kissinger"](http://blog.quantifyingkissinger.com/), (2012-present) (watch the video on the homepage and browse the site)
+----
 
 ## Week 4: Objectivity and its discontents
 ## Monday, February 4
@@ -51,6 +54,7 @@ _The Administration of DH_
 
 ### Case study
 * Mobilized Humanities, Torn Apart / Separados, [Vol 1](http://xpmethod.plaintext.in/torn-apart/volume/1/), [Vol 2](http://xpmethod.plaintext.in/torn-apart/volume/2/)
+----
 
 ## Week 5: "Close" and "distant" reading
 ## Monday, February 11
@@ -68,6 +72,7 @@ _The Administration of DH_
 ### Case study
 * Ryan Cordell, “Reprinting, Circulation, and the Network Author in Antebellum Newspapers," _American Literary History_ 27.3 (August 2015) (B)
    * With accompanying methods paper by David Smith, Ryan Cordell, and Abby Mullen, “Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers” (B)
+----
 
 ## Week 6: Data in the humanities 1: What is data?
 ## Monday, February 18
@@ -81,6 +86,7 @@ _The Administration of DH_
 
 ### Case study
 * Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings” _American Literature_ 85.4 (2013) (B)
+----
 
 ## Week 7: Data in the humanities 2: What do we do with data?
 ## Monday, February 25
@@ -94,6 +100,7 @@ _The Administration of DH_
 
 ### Case study
 * [TOME](http://tome.lmc.gatech.edu/#overview) tool
+----
 
 ## Week 8: Lab day
 ## Monday, March 4
@@ -103,13 +110,16 @@ _The Administration of DH_
 ### In class
 * We will discuss all of the tutorials in class today
 * Work on data set analysis in remaining time
+----
 
 ## Friday, March 8
 ### Due
 * Data set analysis
+----
 
 ## Week 9: NO CLASS -- SPRING BREAK
 ## March 9 -17
+----
 
 ## Week 10: Methods 1: Modeling data
 ## Monday, March 18
@@ -126,6 +136,7 @@ _The Administration of DH_
 ### Case study
 * INSTRUCTOR: Paul Fyfe and Qian Ge, ["Image Analytics and the Nineteenth-Century Illustrated Newspaper,"](http://culturalanalytics.org/2018/10/image-analytics-and-the-nineteenth-century-illustrated-newspaper/) _CA: Journal of Cultural Analytics_ 10.25.18
     * [Dataverse DOI](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U5HTNJ)
+----
 
 ## Week 11: Methods 2: Supervised learning -- classifiers
 ## Monday, March 25
@@ -137,6 +148,7 @@ _The Administration of DH_
 * Andrew Piper, Ch. 4 "Fictionality (Sense)," from _Enumerations_ (2018) (B)
     * [Piper's Github repo for Ch. 4](https://github.com/piperandrew/enumerations/tree/master/04_Fictionality)
     * [R script](https://github.com/piperandrew/enumerations/blob/master/04_Fictionality/chap4_Fictionality.R)
+----
 
 ## Week 12: Methods 3: Unsupervised learning -- topic models
 ## Monday, April 1
@@ -154,6 +166,7 @@ _The Administration of DH_
 * Andrew Piper, Ch. 3 "Topoi (Dispersion)" from _Enumerations_ (2018) (B)
     * [Piper's Github repo for Ch. 3](https://github.com/piperandrew/enumerations/tree/master/03_Topoi)
     * [R script](https://github.com/piperandrew/enumerations/blob/master/03_Topoi/chap3_Topics.R)
+----
 
 ## Week 13: Methods 4: Geographic analysis
 ## Monday, April 8
@@ -169,6 +182,7 @@ _The Administration of DH_
 OR
 * Matthew Wilkens, “The Geographic Imagination of Civil War-Era American Fiction,” _American Literary History_ 25.4 (2013) (B), make sure to read the appendix
     * Data (scroll to bottom): [https://mattwilkens.com/data/](https://mattwilkens.com/data/)
+----
 
 ## Week 14: Final paper work
 ## Monday, April 15
@@ -178,6 +192,7 @@ OR
 ### In class
 * Catch-up, review, discussion of concepts important to final papers
 * Work on final paper
+----
 
 ## Week 15: Final paper work
 ## Monday, April 22
