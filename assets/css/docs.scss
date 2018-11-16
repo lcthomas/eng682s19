@@ -23,12 +23,12 @@ pre {
 }
 
 a {
-	text-decoration: none;
+	text-decoration: underline;
 	color: inherit;
 
 	&:hover {
 		color: $link-color;
-		text-decoration: none;
+		text-decoration: underline;
 	}
 }
 
