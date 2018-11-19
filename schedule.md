@@ -219,4 +219,4 @@ OR<br/>
 * Catch-up, review, discussion of concepts important to final papers
 * Work on final paper
 
-## Final projects due Friday, May 3
+## Final paper due Friday, May 3
