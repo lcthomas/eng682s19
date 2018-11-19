@@ -6,6 +6,8 @@ navigation: 4
 # Schedule
 ## Week 1: What even _is_ an introductory graduate course in "DH" in 2019?
 ## Monday, January 14
+* The first day of class will feature an introduction to the resources and people at the library by Paige Morgan, Digital Scholarship Librarian and Scholarly Publishing Officer
+
 ### Readings
 _DH and Digital Media Studies_
 * Tara McPherson, [“Why are the Digital Humanities So White? or Thinking the Histories of Race and Computation,"](http://dhdebates.gc.cuny.edu/debates/text/29) from _Debates in the Digital Humanities 2012_ (2012)
@@ -192,7 +194,7 @@ _The Administration of DH_
 * Elizabeth F. Evans and Matthew Wilkens, ["Nation, Ethnicity, and the Geography of British Fiction, 1880-1940"](http://culturalanalytics.org/2018/07/nation-ethnicity-and-the-geography-of-british-fiction-1880-1940/), _CA: Journal of Cultural Analytics_, 7.13.18
     * [Dataverse DOI](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VW13KS)
     * Jupyter notebooks: [Geotypicality](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/VW13KS/2HXDPK&version=1.0), [London CA](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/VW13KS/KTQKDV&version=1.0)
- 
+
 OR<br/>
 
 * Matthew Wilkens, “The Geographic Imagination of Civil War-Era American Fiction,” _American Literary History_ 25.4 (2013) (B), make sure to read the appendix
