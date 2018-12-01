@@ -62,7 +62,7 @@ _The Administration of DH_
 
 ----
 
-## Week 5: "Close" and "distant" reading
+## Week 5: Reading: close, distant, reductive
 ## Monday, February 11
 ### Due
 * Data set for data set analysis assignment
@@ -73,7 +73,8 @@ _The Administration of DH_
 ### Readings
 * Julie Orlemanski, “Scales of Reading,” _Exemplaria_ 26.2-3 (2014) (B)
 * Andrew Piper, "Introduction (Reading's Refrain)," from _Enumerations_ (2018) (B)
-* D. Sculley and Bradley M. Pasenek, “Meaning and Mining: the Impact of Implicit Assumptions in Data Mining for the Humanities,” _Literary and Linguistic Computing_ 23.4 (2008) (B)
+* Sarah Allison, "In Defense of Reading Reductively," Ch. 1 from _Reductive Reading_ (2018) (B)
+* RECOMMENDED: D. Sculley and Bradley M. Pasenek, “Meaning and Mining: the Impact of Implicit Assumptions in Data Mining for the Humanities,” _Literary and Linguistic Computing_ 23.4 (2008) (B)
 
 ### Case study
 * Ryan Cordell, “Reprinting, Circulation, and the Network Author in Antebellum Newspapers," _American Literary History_ 27.3 (August 2015) (B)
