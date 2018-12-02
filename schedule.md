@@ -32,7 +32,7 @@ _The Administration of DH_
 ## Week 3: Data analysis in the humanities now
 ## Monday, January 28
 ### Readings
-* Safiya Noble, "Introduction: The Power of Algorithms," from _Algorithms of Oppression: How Search Engines Reinforce Racism_ (2018) (B)
+* Safiya Noble, "A Society, Searching," Ch. 1 from _Algorithms of Oppression: How Search Engines Reinforce Racism_ (2018) (B)
 *  _Debates in the Digital Humanities 2016_, ["Forum: Text Analysis at Scale"](http://dhdebates.gc.cuny.edu/debates/part/14). **NOTE:** Each of these pieces is short, about the length of a blog post.
      * Matthew K. Gold and Lauren F. Klein, [“Introduction”](http://dhdebates.gc.cuny.edu/debates/text/93)
      * Stephen Ramsay, [“Humane Computation”](http://dhdebates.gc.cuny.edu/debates/text/94)
