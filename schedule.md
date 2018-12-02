@@ -108,7 +108,7 @@ _The Administration of DH_
 * Lauren Klein, [“The Carework and Codework of the Digital Humanities”](http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/) (May 2015)
 
 ### Case study
-* [TOME](http://tome.lmc.gatech.edu/#overview) tool
+* Lauren Klein and Jacob Eisenstein, [TOME](http://tome.lmc.gatech.edu/#overview) tool
 
 ----
 
