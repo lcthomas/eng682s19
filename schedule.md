@@ -177,6 +177,9 @@ _The Administration of DH_
     * See Andrew Goldstone’s site for exploring and visualizing the topic models on which “The Quiet Transformations of Literary Studies” is based: [http://www.rci.rutgers.edu/~ag978/quiet/#/model/grid](http://www.rci.rutgers.edu/~ag978/quiet/#/model/grid)
 * Benjamin M. Schmidt, [“Words Alone: Dismantling Topic Models in the Humanities,”](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/) _Journal Of Digital Humanities_ 2.1 (Winter 2012)
 
+RECOMMENDED:
+* If the principles of topic modeling are still unclear, I strongly recommend this recorded presentation, David Mimno, [“The Details: Training and Validating Big Models on Big Data”](https://vimeo.com/53080123) (starting around 3:30)
+
 ### Case study
 * Andrew Piper, Ch. 3 "Topoi (Dispersion)" from _Enumerations_ (2018) (B)
     * [Piper's Github repo for Ch. 3](https://github.com/piperandrew/enumerations/tree/master/03_Topoi)
