@@ -49,13 +49,13 @@ _The Administration of DH_
 
 ----
 
-## Week 4: Objectivity and its discontents
+## Week 4: Objectivity, quantification, and knowledge
 ## Monday, February 4
 ### Readings
 * C. P. Snow, “The Two Cultures” (1959) (B)
 * Lorraine Daston and Peter Galison, Ch 1 “Epistemologies of the Eye,” from _Objectivity_ (2010) (B)
-* John Guillory, “The Sokal Affair and the History of Criticism,” _Critical Inquiry_ 28.2 (2002) (B)
 * Sarah Wilson, “Black Folk by the Numbers: Quantification in Du Bois,” _American Literary History_ 28.1 (2016)
+* John Guillory, “The Sokal Affair and the History of Criticism,” _Critical Inquiry_ 28.2 (2002) (B)
 
 ### Case study
 * Mobilized Humanities, Torn Apart / Separados, [Vol 1](http://xpmethod.plaintext.in/torn-apart/volume/1/), [Vol 2](http://xpmethod.plaintext.in/torn-apart/volume/2/)
