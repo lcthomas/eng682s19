@@ -74,11 +74,10 @@ _The Administration of DH_
 * Julie Orlemanski, “Scales of Reading,” _Exemplaria_ 26.2-3 (2014) (B)
 * Andrew Piper, "Introduction (Reading's Refrain)," from _Enumerations_ (2018) (B)
 * Sarah Allison, "In Defense of Reading Reductively," Ch. 1 from _Reductive Reading_ (2018) (B)
-* D. Sculley and Bradley M. Pasenek, “Meaning and Mining: the Impact of Implicit Assumptions in Data Mining for the Humanities,” _Literary and Linguistic Computing_ 23.4 (2008) (B)
 
 ### Case study
-* Ryan Cordell, “Reprinting, Circulation, and the Network Author in Antebellum Newspapers," _American Literary History_ 27.3 (August 2015) (B)
-   * With accompanying methods paper by David Smith, Ryan Cordell, and Abby Mullen, “Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers” (B)
+* Lauren Klein and Jacob Eisenstein, [TOME](http://tome.lmc.gatech.edu/#overview) tool
+    * With accompanying talk by Lauren Klein, [“The Carework and Codework of the Digital Humanities”](http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/) (May 2015)
 
 ----
 
@@ -105,10 +104,11 @@ _The Administration of DH_
 ### Readings
 * Andrew Goldstone, "Teaching Quantitative Methods: What Makes It Hard (In Literary Studies)," forthcoming in the next edition of _Debates in the Digital Humanities_ (B)
 * Sarah Allison, “[Other People’s Data: Humanities Edition,”](http://culturalanalytics.org/2016/12/other-peoples-data-humanities-edition/) _CA: Journal of Cultural Analytics_ (2016)
-* Lauren Klein, [“The Carework and Codework of the Digital Humanities”](http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/) (May 2015)
+* D. Sculley and Bradley M. Pasenek, “Meaning and Mining: the Impact of Implicit Assumptions in Data Mining for the Humanities,” _Literary and Linguistic Computing_ 23.4 (2008) (B)
 
 ### Case study
-* Lauren Klein and Jacob Eisenstein, [TOME](http://tome.lmc.gatech.edu/#overview) tool
+* Ryan Cordell, “Reprinting, Circulation, and the Network Author in Antebellum Newspapers," _American Literary History_ 27.3 (August 2015) (B)
+   * With accompanying methods paper by David Smith, Ryan Cordell, and Abby Mullen, “Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers” (B)
 
 ----
 
