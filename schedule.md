@@ -170,6 +170,9 @@ _The Administration of DH_
 ### Due
 * Final paper abstract
 
+### In class
+* UM English graduate student Ruth Trego will visit our class and discuss her experience with collecting data for her dissertation project
+
 ### Readings
 * Megan R. Brett, [“Topic Modeling: A Basic Introduction,”](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) _Journal Of Digital Humanities_ 2.1 (Winter 2012)
 * Lisa Marie Rhody, [“Topic Modeling and Figurative Language,”](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/) _Journal Of Digital Humanities_ 2.1 (Winter 2012)
