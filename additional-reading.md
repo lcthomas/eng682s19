@@ -14,11 +14,14 @@ Here you will find additional readings that there wasn't space for on the course
 * Susan Hockey, [“The History of Humanities Computing,"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1&toc.depth=1&toc.id=ss1-2-1&brand=default) _A Companion to Digital Humanities_ (2004)
 * Melissa Terras and Julianne Nyhan, [“Father Busa’s Female Punch Card Operatives,”](http://dhdebates.gc.cuny.edu/debates/text/57) _Debates in the Digital Humanities 2016_ (2016)
 
+## Objectivity, quantification, and knowledge
+* Jessica Marie Johnson, "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads," _Social Text_ 36.4 137 (2018) (B)
+
 ## Data and data modeling
 * Ellen Gruber Garvey, “facts and FACTS: Abolitionists’ Database Innovations,” “_Raw Data” Is an Oxymoron_, MIT Press (2013)
 * Katie Rawson and Trevor Muñoz, [“Against Cleaning”](http://curatingmenus.org/articles/against-cleaning/), Curating Menus, 7 July, 2016.
 * Willard McCarty, [“Knowing…: Modeling in Literary Studies,”](http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand) _A Companion to Digital Literary Studies_ (2008)
-* Dennis Yi Tenen, "Toward a Computational Archaeology of Fictional Space,"  _New Literary History_ 49.1 (2018)
+* Dennis Yi Tenen, "Toward a Computational Archaeology of Fictional Space,"  _New Literary History_ 49.1 (2018) (B)
 * Hoyt Long and Richard Jean So, "Turbulent Flow: A Computational Model of World Literature," _Modern Language Quarterly_ 77.3 (September 2016) (B)
 
 ## Reading: close, distant, reductive

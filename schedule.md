@@ -57,8 +57,8 @@ _The Administration of DH_
 * Sarah Wilson, “Black Folk by the Numbers: Quantification in Du Bois,” _American Literary History_ 28.1 (2016)
 * John Guillory, “The Sokal Affair and the History of Criticism,” _Critical Inquiry_ 28.2 (2002) (B)
 
-### Case study
-* Mobilized Humanities, Torn Apart / Separados, [Vol 1](http://xpmethod.plaintext.in/torn-apart/volume/1/), [Vol 2](http://xpmethod.plaintext.in/torn-apart/volume/2/)
+### No case study this week
+* Class will begin with a presentation by Paige Morgan on finding and wrangling humanities data
 
 ----
 
@@ -76,8 +76,7 @@ _The Administration of DH_
 * Sarah Allison, "In Defense of Reading Reductively," Ch. 1 from _Reductive Reading_ (2018) (B)
 
 ### Case study
-* Lauren Klein and Jacob Eisenstein, [TOME](http://tome.lmc.gatech.edu/#overview) tool
-    * With accompanying talk by Lauren Klein, [“The Carework and Codework of the Digital Humanities”](http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/) (May 2015)
+* Mobilized Humanities, Torn Apart / Separados, [Vol 1](http://xpmethod.plaintext.in/torn-apart/volume/1/), [Vol 2](http://xpmethod.plaintext.in/torn-apart/volume/2/)
 
 ----
 
@@ -147,8 +146,8 @@ _The Administration of DH_
 * Andrew Piper, “Novel Devotions: Conversional Reading, Computational Modeling, and the Modern Novel,” _New Literary History_ 46.1 (2015)
 
 ### Case study
-* INSTRUCTOR: Paul Fyfe and Qian Ge, ["Image Analytics and the Nineteenth-Century Illustrated Newspaper,"](http://culturalanalytics.org/2018/10/image-analytics-and-the-nineteenth-century-illustrated-newspaper/) _CA: Journal of Cultural Analytics_ 10.25.18
-    * [Dataverse DOI](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U5HTNJ)
+* Richard Jean So, Hoyt Long, and Yuancheng Zhu, ["Race, Writing, and Computation: Racial Difference and the US Novel, 1880-2000,"](http://culturalanalytics.org/2019/01/race-writing-and-computation-racial-difference-and-the-us-novel-1880-2000/) _Journal of Cultural Analytics_, 1.11.19
+    * [Dataverse DOI](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6ANTB8)
 
 ----
 
