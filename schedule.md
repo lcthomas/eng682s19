@@ -51,6 +51,8 @@ _The Administration of DH_
 
 ## Week 4: Objectivity, quantification, and knowledge
 ## Monday, February 4
+* Class will begin with a presentation by Paige Morgan on finding and wrangling humanities data
+
 ### Readings
 * C. P. Snow, “The Two Cultures” (1959) (B)
 * Lorraine Daston and Peter Galison, Ch 1 “Epistemologies of the Eye,” from _Objectivity_ (2010) (B)
@@ -58,7 +60,6 @@ _The Administration of DH_
 * John Guillory, “The Sokal Affair and the History of Criticism,” _Critical Inquiry_ 28.2 (2002) (B)
 
 ### No case study this week
-* Class will begin with a presentation by Paige Morgan on finding and wrangling humanities data
 
 ----
 
