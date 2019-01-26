@@ -91,7 +91,7 @@ _The Administration of DH_
 ## Week 6: Data in the humanities 1: What is data?
 ## Monday, February 18
 ### Due
-* Tutorial 1
+* Tutorial 1 (send rendered HTML files to me by class)
   - [Rendered tutorial 1 example](https://lindsaythomas.net/eng682s19/tutorial-1.html)
 
 ### Readings
@@ -107,7 +107,7 @@ _The Administration of DH_
 ## Week 7: Data in the humanities 2: What do we do with data?
 ## Monday, February 25
 ### Due
-* Tutorial 2
+* Tutorial 2 (send rendered HTML files to me by class)
 
 ### Readings
 * Andrew Goldstone, "Teaching Quantitative Methods: What Makes It Hard (In Literary Studies)," forthcoming in the next edition of _Debates in the Digital Humanities_ (B)
@@ -123,7 +123,7 @@ _The Administration of DH_
 ## Week 8: Lab day
 ## Monday, March 4
 ### Due
-* Tutorial 3
+* Tutorial 3 (send rendered HTML files to me by class)
 
 ### In class
 * We will discuss all of the tutorials in class today
