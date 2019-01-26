@@ -3,6 +3,7 @@ layout: page
 title: Tutorials
 navigation: 5
 ---
+# Tutorials
 ## How to access the tutorials
 * Download tutorials from Github
   - Go to the [tutorials Github repo](https://github.com/lcthomas/eng682s19-tutorials)
