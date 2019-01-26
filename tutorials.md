@@ -12,7 +12,7 @@ navigation: 5
   - Unzip the file
 
 ## How to open and edit the tutorials
-* Install RStudio and R on your machine
+* Install R and RStudio on your machine
   - [Instructions for Mac](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)
   - [Instructions for Windows](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027)
 * Open each tutorial file in RStudio (once you have RStudio installed, double-clicking on a tutorial file to open it should mean it automatically opens in RStudio)
