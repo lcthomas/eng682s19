@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Additional Reading
-navigation: 5
+navigation: 6
 ---
 # Additional Reading
 Here you will find additional readings that there wasn't space for on the course syllabus. You may use these readings when conducting research for your data analysis and final papers. Those readings not available online are included in the "Additional Reading" folder on our class Box drive. I will keep adding to this page throughout the semester. The readings are roughly organized by theme, or by week title in the course.
