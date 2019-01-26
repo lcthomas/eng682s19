@@ -15,6 +15,7 @@ navigation: 5
 * Install RStudio and R on your machine
   - [Instructions for Mac](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)
   - [Instructions for Windows](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027)
+* Open each tutorial file in RStudio (once you have RStudio installed, double-clicking on a tutorial file to open it should mean it automatically opens in RStudio)
 
 ## Example rendered tutorial
 * [Rendered tutorial 1 example](https://lindsaythomas.net/eng682s19/tutorial-1.html)
