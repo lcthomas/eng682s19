@@ -68,7 +68,14 @@ _The Administration of DH_
 ### Due
 * Data set for data set analysis assignment
 * Install RStudio and R on your machine
-* Download tutorials 1, 2, and 3 from Github
+  - [Instructions for Mac](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)
+  - [Instructions for Windows](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027)
+* Download tutorials from Github
+  - Go to the [tutorials Github repo](https://github.com/lcthomas/eng682s19-tutorials)
+  - Click on the green `Clone or Download` button
+  - Click `Download Zip`
+  - Save the zip file to your machine, noting where you do so
+  - Unzip the file
 * We will do some exercises involving the command line in class
 
 ### Readings
@@ -85,6 +92,7 @@ _The Administration of DH_
 ## Monday, February 18
 ### Due
 * Tutorial 1
+  - [Rendered tutorial 1 example](https://lindsaythomas.net/eng682s19/tutorial-1.html)
 
 ### Readings
 * Daniel Rosenberg, “Data Before the Fact” from _“Raw Data” is an Oxymoron_ (2013) (B)
