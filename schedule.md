@@ -69,6 +69,7 @@ _The Administration of DH_
 * Data set for data set analysis assignment
 * Install RStudio and R on your machine
   - [Instructions for Mac](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)
+    - Make sure to install XQuartz (step 4 in tutorial)
   - [Instructions for Windows](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027)
 * Download tutorials from Github
   - Go to the [tutorials Github repo](https://github.com/lcthomas/eng682s19-tutorials)
