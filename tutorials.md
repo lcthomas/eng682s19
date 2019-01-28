@@ -21,6 +21,12 @@ navigation: 5
 ## Example rendered tutorial
 * [Rendered tutorial 1 example](https://lindsaythomas.net/eng682s19/tutorial-1.html)
 
+## Coding work sessions
+* Tuesday, Feb 12, 2-4 pm, Library room 305 (faculty exploratory), tutorial 1
+* Friday, Feb 15, 11 am - 12 pm, Library room 305 (faculty exploratory), tutorial 1
+* Tuesday, Feb 19, 2-4 pm, Library room 305 (faculty exploratory), tutorial 2
+* Tuesday, Feb 26, 2-4 pm, Library room 305 (faculty exploratory), tutorial 3
+
 ## Tutorial due dates
 * Tutorial 1: Monday, Feb 18 (send rendered HTML files to me by class)
 * Tutorial 2: Monday, Feb 25 (send rendered HTML files to me by class)
