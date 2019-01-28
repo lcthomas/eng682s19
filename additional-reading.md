@@ -23,6 +23,7 @@ Here you will find additional readings that there wasn't space for on the course
 * Willard McCarty, [“Knowing…: Modeling in Literary Studies,”](http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand) _A Companion to Digital Literary Studies_ (2008)
 * Dennis Yi Tenen, "Toward a Computational Archaeology of Fictional Space,"  _New Literary History_ 49.1 (2018) (B)
 * Hoyt Long and Richard Jean So, "Turbulent Flow: A Computational Model of World Literature," _Modern Language Quarterly_ 77.3 (September 2016) (B)
+* Michael Whitmore, [“Text: A Massively Addressable Object”,](http://dhdebates.gc.cuny.edu/debates/text/28) _Debates in the Digital Humanities 2012_ (2012)
 
 ## Reading: close, distant, reductive
 * Michael Hancher, [“Re: Search and Close Reading,”](http://dhdebates.gc.cuny.edu/debates/text/63 ) from _Debates in the Digital Humanities 2016_ (2016)

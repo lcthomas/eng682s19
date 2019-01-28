@@ -96,7 +96,7 @@ _The Administration of DH_
 
 ### Readings
 * Daniel Rosenberg, “Data Before the Fact” from _“Raw Data” is an Oxymoron_ (2013) (B)
-* Michael Whitmore, [“Text: A Massively Addressable Object”,](http://dhdebates.gc.cuny.edu/debates/text/28) _Debates in the Digital Humanities 2012_ (2012)
+* Katherine Bode, "The Equivalence of “Close” and “Distant” Reading; or, Toward a New Object for Data-Rich Literary History," _Modern Language Quarterly_ 78.1 (March 2017) (B)
 * Frederick W. Gibbs, [“New Forms of History: Critiquing Data and Its Representations,"](http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/) _The American Historian_ (February 2016)
 
 ### Case study
