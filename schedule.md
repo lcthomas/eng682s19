@@ -45,7 +45,7 @@ _The Administration of DH_
      * Alan Liu, [“N + 1: A Plea for Cross-Domain Data in the Digital Humanities”](http://dhdebates.gc.cuny.edu/debates/text/101)
 
 ### Case study
-* INSTRUCTOR: Mikki Kaufman, ["'Everything on Paper Will Be Used Against Me': Quantifying Kissinger"](http://blog.quantifyingkissinger.com/), (2012-present) (watch the video on the homepage and browse the site)
+* INSTRUCTOR: Micki Kaufman, ["'Everything on Paper Will Be Used Against Me': Quantifying Kissinger"](http://blog.quantifyingkissinger.com/), (2012-present) (watch the video on the homepage and browse the site)
 
 ----
 
