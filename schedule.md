@@ -84,7 +84,7 @@ _The Administration of DH_
 * Sarah Allison, "In Defense of Reading Reductively," Ch. 1 from _Reductive Reading_ (2018) (B)
 
 ### Case study
-* Mobilized Humanities, Torn Apart / Separados, [Vol 1](http://xpmethod.plaintext.in/torn-apart/volume/1/), [Vol 2](http://xpmethod.plaintext.in/torn-apart/volume/2/)
+* Nick, Mariana: Mobilized Humanities, Torn Apart / Separados, [Vol 1](http://xpmethod.plaintext.in/torn-apart/volume/1/), [Vol 2](http://xpmethod.plaintext.in/torn-apart/volume/2/)
 
 ----
 
@@ -100,7 +100,7 @@ _The Administration of DH_
 * Frederick W. Gibbs, [“New Forms of History: Critiquing Data and Its Representations,"](http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/) _The American Historian_ (February 2016)
 
 ### Case study
-* Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings” _American Literature_ 85.4 (2013) (B)
+* Dieyun, Laura: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings” _American Literature_ 85.4 (2013) (B)
 
 ----
 
@@ -115,7 +115,7 @@ _The Administration of DH_
 * D. Sculley and Bradley M. Pasenek, “Meaning and Mining: the Impact of Implicit Assumptions in Data Mining for the Humanities,” _Literary and Linguistic Computing_ 23.4 (2008) (B)
 
 ### Case study
-* Ryan Cordell, “Reprinting, Circulation, and the Network Author in Antebellum Newspapers," _American Literary History_ 27.3 (August 2015) (B)
+* Ashley: Ryan Cordell, “Reprinting, Circulation, and the Network Author in Antebellum Newspapers," _American Literary History_ 27.3 (August 2015) (B)
    * With accompanying methods paper by David Smith, Ryan Cordell, and Abby Mullen, “Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers” (B)
 
 ----
@@ -155,7 +155,7 @@ _The Administration of DH_
 * Andrew Piper, “Novel Devotions: Conversional Reading, Computational Modeling, and the Modern Novel,” _New Literary History_ 46.1 (2015)
 
 ### Case study
-* Richard Jean So, Hoyt Long, and Yuancheng Zhu, ["Race, Writing, and Computation: Racial Difference and the US Novel, 1880-2000,"](http://culturalanalytics.org/2019/01/race-writing-and-computation-racial-difference-and-the-us-novel-1880-2000/) _Journal of Cultural Analytics_, 1.11.19
+* Tarika, Julia: Richard Jean So, Hoyt Long, and Yuancheng Zhu, ["Race, Writing, and Computation: Racial Difference and the US Novel, 1880-2000,"](http://culturalanalytics.org/2019/01/race-writing-and-computation-racial-difference-and-the-us-novel-1880-2000/) _Journal of Cultural Analytics_, 1.11.19
     * [Dataverse DOI](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6ANTB8)
 
 ----
@@ -167,7 +167,7 @@ _The Administration of DH_
 * Andrew Piper and Eva Portelance, ["How Cultural Capital Works: Prizewinning Novels, Bestsellers, and the Time of Reading,"](http://post45.research.yale.edu/2016/05/how-cultural-capital-works-prizewinning-novels-bestsellers-and-the-time-of-reading/#identifier_12_7012) _Post45_, 5.10.16
 
 ### Case study
-* Andrew Piper, Ch. 4 "Fictionality (Sense)," from _Enumerations_ (2018) (B)
+* Carmen: Andrew Piper, Ch. 4 "Fictionality (Sense)," from _Enumerations_ (2018) (B)
     * [Piper's Github repo for Ch. 4](https://github.com/piperandrew/enumerations/tree/master/04_Fictionality)
     * [R script](https://github.com/piperandrew/enumerations/blob/master/04_Fictionality/chap4_Fictionality.R)
 
@@ -192,7 +192,7 @@ RECOMMENDED:
 * If the principles of topic modeling are still unclear, I strongly recommend this recorded presentation, David Mimno, [“The Details: Training and Validating Big Models on Big Data”](https://vimeo.com/53080123) (starting around 3:30)
 
 ### Case study
-* Andrew Piper, Ch. 3 "Topoi (Dispersion)" from _Enumerations_ (2018) (B)
+* Preston: Andrew Piper, Ch. 3 "Topoi (Dispersion)" from _Enumerations_ (2018) (B)
     * [Piper's Github repo for Ch. 3](https://github.com/piperandrew/enumerations/tree/master/03_Topoi)
     * [R script](https://github.com/piperandrew/enumerations/blob/master/03_Topoi/chap3_Topics.R)
 
@@ -206,7 +206,7 @@ RECOMMENDED:
     * Accompanying digital exhibit, “[Mining and Mapping the Production of Space”](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93)
 
 ### Case study
-* Elizabeth F. Evans and Matthew Wilkens, ["Nation, Ethnicity, and the Geography of British Fiction, 1880-1940"](http://culturalanalytics.org/2018/07/nation-ethnicity-and-the-geography-of-british-fiction-1880-1940/), _CA: Journal of Cultural Analytics_, 7.13.18
+* Miguel: Elizabeth F. Evans and Matthew Wilkens, ["Nation, Ethnicity, and the Geography of British Fiction, 1880-1940"](http://culturalanalytics.org/2018/07/nation-ethnicity-and-the-geography-of-british-fiction-1880-1940/), _CA: Journal of Cultural Analytics_, 7.13.18
     * [Dataverse DOI](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VW13KS)
     * Jupyter notebooks: [Geotypicality](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/VW13KS/2HXDPK&version=1.0), [London CA](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/VW13KS/KTQKDV&version=1.0)
 
