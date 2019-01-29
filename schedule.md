@@ -56,7 +56,7 @@ _The Administration of DH_
 ### Readings
 * C. P. Snow, “The Two Cultures” (1959) (B)
 * Lorraine Daston and Peter Galison, Ch 1 “Epistemologies of the Eye,” from _Objectivity_ (2010) (B)
-* Sarah Wilson, “Black Folk by the Numbers: Quantification in Du Bois,” _American Literary History_ 28.1 (2016)
+* Sarah Wilson, “Black Folk by the Numbers: Quantification in Du Bois,” _American Literary History_ 28.1 (2016) (B)
 * John Guillory, “The Sokal Affair and the History of Criticism,” _Critical Inquiry_ 28.2 (2002) (B)
 
 ### No case study this week
@@ -147,13 +147,13 @@ _The Administration of DH_
 ## Monday, March 18
 ### Readings
 * Julia Flanders and Fotis Jannidis, “Data Modeling,” _A New Companion to the Digital Humanities_ (Wiley Blackwell, 2016) (B)
-* Richard Jean So, "All Models Are Wrong," _PMLA_ 132.3 (2017)
+* Richard Jean So, "All Models Are Wrong," _PMLA_ 132.3 (2017) (B)
 * [Women Writer's Project](http://www.wwp.neu.edu/)
     * Browse the site
     * Read about their [editorial principles](http://www.wwp.neu.edu/about/methods/editorial_principles.html)
     * Read about their [schema customization](http://www.wwp.neu.edu/about/methods/customization.html)
     * Browse the [WWO Lab](http://www.wwp.neu.edu/wwo/lab/)
-* Andrew Piper, “Novel Devotions: Conversional Reading, Computational Modeling, and the Modern Novel,” _New Literary History_ 46.1 (2015)
+* Andrew Piper, “Novel Devotions: Conversional Reading, Computational Modeling, and the Modern Novel,” _New Literary History_ 46.1 (2015) (B)
 
 ### Case study
 * Tarika, Julia: Richard Jean So, Hoyt Long, and Yuancheng Zhu, ["Race, Writing, and Computation: Racial Difference and the US Novel, 1880-2000,"](http://culturalanalytics.org/2019/01/race-writing-and-computation-racial-difference-and-the-us-novel-1880-2000/) _Journal of Cultural Analytics_, 1.11.19
