@@ -24,7 +24,7 @@ navigation: 5
 ## Coding work sessions
 * Tuesday, Feb 12, 2-4 pm, Library room 305 (faculty exploratory), tutorial 1
 * Friday, Feb 15, 11 am - 12 pm, Library room 305 (faculty exploratory), tutorial 1
-* Tuesday, Feb 19, 2-4 pm, Library room 305 (faculty exploratory), tutorial 2
+* Tuesday, Feb 19, 2-3:30 pm, Library room 305 (faculty exploratory), tutorial 2
 * Tuesday, Feb 26, 2-4 pm, Library room 305 (faculty exploratory), tutorial 3
 
 ## Tutorial due dates
