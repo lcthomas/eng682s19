@@ -28,6 +28,6 @@ navigation: 5
 * Tuesday, Feb 26, 2-4 pm, Library room 305 (faculty exploratory), tutorial 3
 
 ## Tutorial due dates
-* Tutorial 1: Monday, Feb 18 (send rendered HTML files to me by class)
-* Tutorial 2: Monday, Feb 25 (send rendered HTML files to me by class)
-* Tutorial 3: Monday, March 4 (send rendered HTML files to me by class)
+* Tutorial 1: Monday, Feb 18 (upload rendered HTML files to Box "Tutorial 1" folder by class)
+* Tutorial 2: Monday, Feb 25 (upload rendered HTML files to to Box "Tutorial 2" folder by class)
+* Tutorial 3: Monday, March 4 (upload rendered HTML files to Box "Tutorial 3" folder by class)
