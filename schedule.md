@@ -223,6 +223,9 @@ OR<br/>
 ### Due
 * Final paper annotated bibliography
 
+### Readings
+* Nan Z. Da, "The Computational Case against Computational Literary Studies," _Critical Inquiry_ 45 (Spring 2019) (B)
+
 ### In class
 * Catch-up, review, discussion of concepts important to final papers
 * Work on final paper
