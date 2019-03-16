@@ -225,6 +225,7 @@ OR<br/>
 
 ### Readings
 * Nan Z. Da, "The Computational Case against Computational Literary Studies," _Critical Inquiry_ 45 (Spring 2019) (B)
+* Also read/scan the Appendix, especially section 9, "Suggested Guidelines for Reviewing CLS Manuscripts," pg 25 (B)
 
 ### In class
 * Catch-up, review, discussion of concepts important to final papers
