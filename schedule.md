@@ -211,11 +211,6 @@ RECOMMENDED:
     * [Dataverse DOI](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VW13KS)
     * Jupyter notebooks: [Geotypicality](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/VW13KS/2HXDPK&version=1.0), [London CA](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/VW13KS/KTQKDV&version=1.0)
 
-OR<br/>
-
-* Matthew Wilkens, “The Geographic Imagination of Civil War-Era American Fiction,” _American Literary History_ 25.4 (2013) (B), make sure to read the appendix
-    * Data (scroll to bottom): [https://mattwilkens.com/data/](https://mattwilkens.com/data/)
-
 ----
 
 ## Week 14: Final paper work
